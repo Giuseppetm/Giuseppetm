@@ -15,7 +15,7 @@ I dedicate most of my time to front-end web development.
 - React
 
 #### Projects
-- [Studenti UniMi](https://studentiunimi.it/)
+- [Studenti UniMi](https://github.com/StudentiUnimi/website)
 - [Happy Food](https://github.com/Giuseppetm/happy_food)
 - [Automated Greenhouse](https://github.com/Giuseppetm/Automated_Greenhouse)
 
@@ -26,5 +26,5 @@ I dedicate most of my time to front-end web development.
 - Arduino programming
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&theme=yeblu&show_icons=true)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=yeblu)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
