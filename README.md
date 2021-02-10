@@ -1,16 +1,30 @@
-### Hi there 👋
+#### Hi there, I'm Giuseppe! 👋
+I am a computer science student at the University of Milan.
+I dedicate most of my time to front-end web development.
+###### I'm currently working on the development of the website for the [Studenti UniMi](https://github.com/StudentiUnimi) network, that you can find [here](https://studentiunimi.it/).
 
-<!--
-**Giuseppetm/Giuseppetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Languages
+- Javascript / Typescript
+- HTML5, CSS3, PHP
+- C
+- Go
+- Python
+- Java
 
-Here are some ideas to get you started:
+##### Frameworks
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- [Studenti UniMi](https://studentiunimi.it/)
+- [Happy Food](https://github.com/Giuseppetm/happy_food)
+- [Automated Greenhouse](https://github.com/Giuseppetm/Automated_Greenhouse)
+
+##### Other competences
+- Video editing
+- Basic knowledge of photo editing
+- Computer building
+- Arduino programming
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&theme=yeblu&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=yeblu)
