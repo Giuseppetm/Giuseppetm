@@ -1,6 +1,6 @@
-<h2> Hi there, I'm Giuseppe!<img src="https://c.tenor.com/0hXU-5lcfw8AAAAi/animal-frog.gif" width="50"></h2>
+<h2> Hi there, I'm Giuseppe! <img src="frog.png" width="30"></h2>
 <p><em>
-Computer science student at the <a href="https://www.unimi.it/">University of Milan </a><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" width="20">
+Computer science student at the <a href="https://www.unimi.it/">University of Milan</a> <img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" width="20">
 </br>
 Front-end Developer <img src="https://media.tenor.com/images/c44774dee940a874932a55b8206e929c/tenor.gif" width="20">
 </em></p>
