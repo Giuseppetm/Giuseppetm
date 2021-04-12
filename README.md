@@ -5,6 +5,7 @@ Computer science student at the <a href="https://www.unimi.it/">University of Mi
 Front-end Developer <img src="https://media.tenor.com/images/c44774dee940a874932a55b8206e929c/tenor.gif" width="20">
 </em></p>
 
+[![Telegram Badge](https://img.shields.io/badge/-@giuseppetm-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white&link=https://t.me/giuseppetm)](https://t.me/giuseppetm)
 [![GitHub Giuseppetm](https://img.shields.io/github/followers/giuseppetm?label=follow&style=social)](https://github.com/Giuseppetm)
 #### What i'm focusing on 👨‍💻
 - 🌐 In the last few months I have developed a [website](https://studentiunimi.it/) for the [Studenti UniMi](https://github.com/StudentiUnimi) network.
