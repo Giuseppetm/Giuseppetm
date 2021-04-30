@@ -11,6 +11,6 @@ Front-end Developer <img src="https://media.tenor.com/images/c44774dee940a874932
 - 🌐 In the last few months I have developed a [website](https://studentiunimi.it/) for the [Studenti UniMi](https://github.com/StudentiUnimi) network.
 - 🐢 I'm currently working on a H2020 research project.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=shades-of-purple)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=shades-of-purple&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=algolia)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=algolia&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
