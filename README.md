@@ -13,6 +13,6 @@ Front-end Developer <img src="https://media.tenor.com/images/c44774dee940a874932
 
 #### Some stats ℹ️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=ayu-mirage)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=ayu-mirage&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=react)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=react&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
