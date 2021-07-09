@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Giuseppe! <img src="https://media.tenor.com/images/44a12772d3209a4298859d120e7504cc/tenor.gif" width="80" style="margin-bottom: -9px; margin-left:-15px"></h2>
+<h2> Hi there, I'm Giuseppe! 👋</h2>
 <p><em>
 Computer science student at the <a href="https://www.unimi.it/">University of Milan</a> <img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" width="20">
 </br>
@@ -13,6 +13,6 @@ Front-end Developer <img src="https://media.tenor.com/images/70c1f64b4213e37de80
 
 #### Some stats ℹ️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=nightowl)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=nightowl&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=blueberry)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=blueberry&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
