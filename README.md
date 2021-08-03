@@ -13,7 +13,7 @@ Front-end Developer <img src="https://media.tenor.com/images/70c1f64b4213e37de80
 - 🐻 I'm currently working on the development of Smart Bear UI ([Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) Project);
 - 🌳 I'm learning C# and a little bit of backend.
 
-### Languages and Tools
+### Languages and Tools 🧙
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
