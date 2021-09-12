@@ -2,7 +2,7 @@
 <p><em>
 Computer science student @<a href="https://www.unimi.it/">Università degli Studi di Milano</a> <img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" width="20">
 <br/>
-Front-end developer <img src="https://media.tenor.com/images/70c1f64b4213e37de8048f87f64e16a9/tenor.gif" width="18" style="margin-bottom: -3px">
+Front-end developer <img src="https://media.tenor.com/images/70c1f64b4213e37de8048f87f64e16a9/tenor.gif" width="16" style="margin-bottom: -3px">
 <br/>
 Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a> <img src="https://media.tenor.com/images/5d582dac1e29406f340fb3b35dd7ba13/tenor.gif" width="22"> 
 </em></p>
