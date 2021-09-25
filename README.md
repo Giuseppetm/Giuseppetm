@@ -39,7 +39,7 @@ Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a>
 
 ### Some stats ℹ️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=algolia)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=algolia&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=omni)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=omni)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=omni&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
