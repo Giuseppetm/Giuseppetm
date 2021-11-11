@@ -11,12 +11,11 @@ Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a>
 [![GitHub Giuseppetm](https://img.shields.io/github/followers/giuseppetm?label=follow&style=social)](https://github.com/Giuseppetm)
 
 ### My recent activities <img src="https://media.tenor.com/images/20be3abd731fe52f8b74480e6b404053/tenor.gif" width="35" style="margin-bottom: -3px; margin-left:-3px">
-- 🐻 In the last few months I have developed Smart Bear UI ([Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) Project) where I had to manipulate data in [FHIR Format](http://www.hl7.org/fhir/modules.html) for the management of clinical patients data;
-- 🌃 I'm currently learning C# and Dotnet world.
+- 🐻 In the last few months I have developed [Smart Bear](https://smartbear-it.di.unimi.it/) UI ([Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) Project) where I had to manipulate clinical patients data in [FHIR Format](http://www.hl7.org/fhir/modules.html);
+- 🚀 I'm currently learning C# and Dotnet world.
 
 ### Some stats ℹ️
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=cobalt2)
-<!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=yeblu)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=cobalt2&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=graywhite)
+<!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=graywhite&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
