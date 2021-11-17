@@ -15,7 +15,7 @@ Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a>
 - 🚀 I'm currently learning C# and Dotnet world.
 
 ### Some stats ℹ️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=panda)
 <!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=graywhite&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&theme=panda&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
