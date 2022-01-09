@@ -11,7 +11,7 @@ I'm currently learning C#, Blazor and Dotnet world.
 [![GitHub Giuseppetm](https://img.shields.io/github/followers/giuseppetm?label=follow&style=social)](https://github.com/Giuseppetm)
 
 ### Some stats ℹ️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=slateorange)
 <!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&layout=compact&theme=vue)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&layout=compact&theme=slateorange)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
