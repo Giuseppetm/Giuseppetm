@@ -2,7 +2,7 @@
 <p><em>
 Developer <a href="https://github.com/EgeatechSRL">@EgeatechSRL</a> <img src="https://media.tenor.com/images/70c1f64b4213e37de8048f87f64e16a9/tenor.gif" width="16" style="margin-bottom: -3px">
 <br/>
-Smart Bear Front-end developer <a href="https://www.unimi.it/">@Università degli Studi di Milano</a> <img src="https://c.tenor.com/fRfxaUZELDUAAAAi/polar-bear-white-bear.gif" width="22" />
+Smart Bear Front-end developer <a href="https://www.unimi.it/">@Università degli Studi di Milano</a> <img src="https://c.tenor.com/fRfxaUZELDUAAAAi/polar-bear-white-bear.gif" width="15" />
 <br/>
 Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a> <img src="https://media.tenor.com/images/5d582dac1e29406f340fb3b35dd7ba13/tenor.gif" width="22"> 
 <br/>
