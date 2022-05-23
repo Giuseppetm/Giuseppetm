@@ -10,7 +10,7 @@ Creator and mantainer of <a href="https://studentiunimi.it/">studentiunimi.it<a>
 [![GitHub Giuseppetm](https://img.shields.io/github/followers/giuseppetm?label=follow&style=social)](https://github.com/Giuseppetm)
 
 ### Some stats ℹ️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=swift&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppetm&show_icons=true&theme=codeSTACKr&count_private=true)
 <!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Giuseppetm&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&layout=compact&theme=swift&count_private=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuseppetm&layout=compact&theme=codeSTACKr&count_private=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppetm&layout=compact&langs_count=10)-->
