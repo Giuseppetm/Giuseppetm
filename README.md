@@ -1,7 +1,7 @@
-![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/9f756806-067b-4f5f-b61f-0e3258ff6ecf)
+![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/2815ea5f-887e-45da-8329-6fb25c67508b)
 
 ### ↘️ About me
-I'm a 23 years old front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as IT Consultant for [Blue Reply](https://www.reply.com/blue-reply/it/) (Member of SEOPOD team, specialized in SEO and performance of [Whirlpool](https://www.whirlpoolcorp.com/) projects).
+I'm a 23 years old front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as IT Consultant for [Protocube Reply](https://protocube.it/).
 
 I studied computer science at the [University of Milan](https://www.unimi.it/it), where I later worked on a H2020 European project called [Smart Bear](https://cordis.europa.eu/project/id/857172/it). 
 
