@@ -1,4 +1,4 @@
-![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/2815ea5f-887e-45da-8329-6fb25c67508b)
+![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/c6496490-48d2-428e-b153-2e7eeea40cf4)
 
 ### ↘️ About me
 I'm a 23 years old front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as IT Consultant for [Protocube Reply](https://protocube.it/).
