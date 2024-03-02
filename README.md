@@ -1,7 +1,7 @@
-![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/cd745bd2-94bc-45ce-9919-9457a287e0d9)
+![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/4ce62a55-8c45-4d6d-87de-b7e462737cfc)
 
 ### ↘️ About me
-I'm a 24 years old front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as IT Consultant for [Protocube Reply](https://protocube.it/).
+I'm a front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as consultant for [Protocube Reply](https://protocube.it/).
 
 I studied computer science at the [University of Milan](https://www.unimi.it/it), where I later worked on a H2020 European project called [Smart Bear](https://cordis.europa.eu/project/id/857172/it). 
 
