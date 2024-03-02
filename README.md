@@ -1,4 +1,4 @@
-![Giuseppe Del Campo](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/4ce62a55-8c45-4d6d-87de-b7e462737cfc)
+![Github Profile](https://github.com/Giuseppetm/Giuseppetm/assets/52317197/618b310b-49ed-4c38-b6a6-ce4b3f7d4158)
 
 ### ↘️ About me
 I'm a front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as consultant for [Protocube Reply](https://protocube.it/).
