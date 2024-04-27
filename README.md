@@ -7,6 +7,6 @@ I studied computer science at the [University of Milan](https://www.unimi.it/it)
 
 I have worked in multiple contexts such as clinical, industrial, and e-commerce-related fields.
 
-My passion for development led me to create one of the most advanced university websites in Italy ([studentiunimi.it](https://studentiunimi.it/)), with an average of 10,000 monthly visitors. I contribute daily to make communication between students at the University of Milan easier and to make groups, services, and many other resources available. 
+My passion for development led me to create one of the most advanced university websites in Italy ([studentiunimi.it](https://studentiunimi.it/)). I contribute daily to make communication between students at the University of Milan easier and to make groups, services, and many other resources available. 
 
 All the personal projects I have created so far are open-source.
