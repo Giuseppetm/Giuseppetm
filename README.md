@@ -1,5 +1,5 @@
 ### ↘️ About me
-I'm a front-end developer currently working at [People Lab SRL](https://www.peoplelab.it/) as consultant for [Protocube Reply](https://protocube.it/).
+I'm a front-end developer currently working at [Deloitte Digital](https://www.deloittedigital.com/it/en.html) as consultant.
 
 I studied computer science at the [University of Milan](https://www.unimi.it/it), where I later worked on a H2020 European project called [Smart Bear](https://cordis.europa.eu/project/id/857172/it). 
 
