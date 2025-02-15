@@ -1,5 +1,5 @@
 ### ↘️ About me
-I am a front-end developer with about 3 years of work experience, currently working at [Deloitte Digital](https://www.deloittedigital.com/it/en.html) as consultant. I had the opportunity to gain experience in multiple contexts including clinical, industrial and e-commerce, both in consulting and internal.
+I am a front-end software engineer with about 3 years of work experience, currently working at [Deloitte Digital](https://www.deloittedigital.com/it/en.html) as consultant. I had the opportunity to gain experience in multiple contexts including clinical, industrial and e-commerce, both in consulting and product companies.
 
 I studied computer science at the [University of Milan](https://www.unimi.it/it) where I then worked on a European Horizon 2020 project called "[Smart Bear](https://cordis.europa.eu/project/id/857172/it)" on which I dedicated my thesis project entitled "Development of a remote monitoring system for the management of FHIR data relating to patients".
 
