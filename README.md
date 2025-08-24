@@ -6,5 +6,6 @@ I hold a bachelor's degree in computer science from the [University of Milan](ht
 My passion for development has driven me to co-found the ([Network StudentiUniMi](https://studentiunimi.it/)), a groundbreaking university platform officially recognized by the University of Milan. This project serves over 25,000 students, offering organized, moderated chats, custom bots, and valuable resources to foster connectivity and collaboration within the academic community.
 
 All the personal projects I have created so far are open-source. 🌎
+If you enjoy my projects and have the financial possibility, you can support me on [Buy Me a Coffee](https://www.buymeacoffee.com/giuseppetm). ☕✨
 
 ➡️ [Check out my portfolio.](https://giuseppedelcampo.netlify.app/)
