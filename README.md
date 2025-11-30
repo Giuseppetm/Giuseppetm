@@ -8,7 +8,7 @@ I hold a bachelor's degree in computer science from the [University of Milan](ht
 
 #### Outside of work, I dedicate time to building community‑driven projects.
 
-- I co-founded in 2020 the ([Network StudentiUniMi](https://studentiunimi.it/)), a groundbreaking university platform officially recognized by the University of Milan: this project serves over 25,000 students, offering organized, moderated chats, custom bots, and valuable resources to foster connectivity and collaboration within the academic community.
+- I co-founded in 2020 the [Network StudentiUniMi](https://studentiunimi.it/), a groundbreaking university platform officially recognized by the University of Milan: this project serves over 25,000 students, offering organized, moderated chats, custom bots, and valuable resources to foster connectivity and collaboration within the academic community.
 
 - I created [Syndrome Main Computer](https://github.com/Giuseppetm/syndrome-main-computer), a faithful recreation of Syndrome’s iconic mainframe from "The Incredibles", which has garnered millions of views worldwide.
 
