@@ -1,6 +1,6 @@
 ## ↘️ About me
 ### Hello there 👋
-I am a front-end software engineer with over 3 years of professional experience, currently working as a consultant at [Deloitte Digital](https://www.deloittedigital.com/it/en.html) designing and implementing front‑end architectures for leading luxury fashion brands, including [Dolce & Gabbana](https://www.dolcegabbana.com/it-it/) and [Brunello Cucinelli](https://shop.brunellocucinelli.com/it-it/).
+I am a front-end software engineer with over 4 years of professional experience, currently working as a consultant at [Deloitte Digital](https://www.deloittedigital.com/it/en.html) designing and implementing front‑end architectures for leading luxury fashion brands, including [Dolce & Gabbana](https://www.dolcegabbana.com/it-it/) and [Brunello Cucinelli](https://shop.brunellocucinelli.com/it-it/).
 
 I hold a bachelor's degree in computer science from the [University of Milan](https://www.unimi.it/it), where I was actively engaged as an elected student representative in the Computer Science department, providing support to peers and collaborating with faculty to improve academic programs. During my studies, I contributed to the European Horizon 2020 project [Smart Bear](https://cordis.europa.eu/project/id/857172/it), dedicating my thesis to the development of a remote monitoring system for managing FHIR data relating to patients.
 
