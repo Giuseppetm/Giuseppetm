@@ -6,13 +6,21 @@ I hold a bachelor's degree in computer science from the [University of Milan](ht
 
 ---
 
-#### Outside of work, I dedicate time to building community‑driven projects.
+#### 🗺 Outside of work, I dedicate time to building community‑driven projects.
 
 - I co-founded in 2020 the [Network StudentiUniMi](https://studentiunimi.it/), a groundbreaking university platform officially recognized by the University of Milan: this project serves over 25,000 students, offering organized, moderated chats, custom bots, and valuable resources to foster connectivity and collaboration within the academic community.
 
 - I created [Syndrome Main Computer](https://github.com/Giuseppetm/syndrome-main-computer), a faithful recreation of Syndrome’s iconic mainframe from "The Incredibles", which has garnered millions of views worldwide.
 
 If you enjoy my projects and have the financial possibility, you can [Buy Me a Coffee](https://www.buymeacoffee.com/giuseppetm). ☕✨
+
+---
+
+#### 🤝 Volunteering
+Over the years, I have collaborated with several organizations across environmental, social, and educational fields, including [PlasticFree](https://www.plasticfreeonlus.it/), [Fondazione IBVA](https://ibva.it/), [RECUP](https://associazionerecup.org/), and [Portofranco Milano](https://www.portofranco.org/). My contributions ranged from environmental cleanups and food recovery to bakery production for social programs and tutoring in computer science. 
+
+#### 🌱 Open to New Opportunities in Abruzzo
+Currently based in Abruzzo (Italy) and available for new volunteering opportunities in the region — especially in environmental initiatives, social support programs, education, and community‑driven projects.
 
 ---
 
